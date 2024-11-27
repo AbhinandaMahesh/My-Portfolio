@@ -1,0 +1,7 @@
+[build]
+publish = "dist" 
+
+[[redirects]]
+form = "/*"
+to = "/portfolio.html"
+status = 200
